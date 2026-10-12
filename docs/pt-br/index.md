@@ -21,7 +21,7 @@ sudo pacman -S argvus-games
 Instale um único jogo:
 
 ```sh
-sudo pacman -S argvus-game-snake
+sudo pacman -S argvus game-snake
 ```
 
 Instalar um pacote de jogo não altera a sua sessão, o seu tema nem o seu

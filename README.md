@@ -28,7 +28,7 @@ sudo pacman -S argvus-games
 Install a single game:
 
 ```sh
-sudo pacman -S argvus-game-snake
+sudo pacman -S argvus game-snake
 ```
 
 ## Build from source

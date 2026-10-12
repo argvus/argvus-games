@@ -9,7 +9,7 @@ metapacote [Jogos do ARGVUS](/pt/docs/argvus-games/).
 ## Instalação
 
 ```sh
-sudo pacman -S argvus-game-snake
+sudo pacman -S argvus game-snake
 ```
 
 Instalar o `argvus-games` instala este jogo também.
