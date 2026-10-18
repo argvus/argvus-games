@@ -30,7 +30,7 @@ wallpaper, and does not create files in your home directory.
 
 | Game | Package | Command | Page |
 | --- | --- | --- | --- |
-| Snake | `argvus-game-snake` | `argvus game-snake` | [Snake](/docs/argvus-games/snake/) |
+| Snake | `argvus-game-snake` | `argvus game-snake` | [Snake](/docs/argvus-game-snake/) |
 
 ## Keyboard-first controls
 

@@ -31,7 +31,7 @@ wallpaper, e não cria arquivos na sua pasta pessoal.
 
 | Jogo | Pacote | Comando | Página |
 | --- | --- | --- | --- |
-| Snake | `argvus-game-snake` | `argvus game-snake` | [Snake](/pt/docs/argvus-games/snake/) |
+| Snake | `argvus-game-snake` | `argvus game-snake` | [Snake](/pt/docs/argvus-game-snake/) |
 
 ## Controles pelo teclado
 
