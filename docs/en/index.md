@@ -20,7 +20,7 @@ sudo pacman -S argvus-games
 Install a single game:
 
 ```sh
-sudo pacman -S argvus game-snake
+sudo pacman -S argvus-game-snake
 ```
 
 Installing a game package does not change your session, your theme or your

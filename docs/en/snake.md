@@ -9,7 +9,7 @@ description: Play the retro ARGVUS terminal Snake game.
 ## Installation
 
 ```sh
-sudo pacman -S argvus game-snake
+sudo pacman -S argvus-game-snake
 ```
 
 Installing `argvus-games` installs this game as well.
