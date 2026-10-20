@@ -8,7 +8,7 @@ package (part of the [ARGVUS](https://gitlab.com/argvus/) organization).
 ```text
 packaging/
   arch/
-    ci/        PKGBUILD used by GitHub Actions (release built from a tag)
+    remote/       PKGBUILD used by GitHub Actions (release built from a tag)
     local/     PKGBUILD used for local builds (from the working tree)
 docs/
   en/          game documentation in English (published on the website)
