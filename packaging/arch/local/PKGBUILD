@@ -8,6 +8,7 @@ url="https://github.com/argvus/argvus-games"
 license=('GPL-3.0-only')
 depends=(
   'argvus'
+  'steam'
   'argvus-game-snake'
 )
 options=('!debug')
