@@ -1,15 +1,15 @@
 ---
-title: Games
+title: العاب
 description:                                           .ﺔﻴﻤﺳﺮﻟﺍ ARGVUS ﺏﺎﻌﻟﺃ ﺐﻌﻟﻭ ﺖﻴﺒﺜﺘﺑ ﻢﻗ
 ---
 
  ﺔﺒﻌﻟ ﻱﺃ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﻻ﻿ﻭ .ARGVUS ـﻟ ﺔﻴﻤﺳﺮﻟﺍ ﺏﺎﻌﻟﻸ﻿ﻟ ﺔﻠﻣﺎﺸﻟﺍ ﺔﻣﺰﺤﻟﺍ ﻲﻫ ARGVUS ﺏﺎﻌﻟﺃ
              ,ﺔﻴﻤﺳﺮﻟﺍ ﺔﻋﻮﻤﺠﻤﻟﺍ ﻲﻓ ﺏﺎﻌﻟﺃ ﺔﻣﺰﺣ ﻞﻛ ﺖﻴﺒﺜﺘﺑ ﻡﻮﻘﻳ ﻪﺘﻴﺒﺜﺗ :ﺹﺎﺨﻟﺍ ﻩﺰﻣﺭ
-.ﺔﻴﻤﺳﺮﻟﺍ ﺕﺎﻤﺴﻟﺍ ﺖﻴﺒﺜﺘﺑ `argvus-themes` ﺔﻴﻗﻮﻔﻟﺍ ﺔﻣﺰﺤﻟﺍ ﺎﻬﺑ ﻡﻮﻘﻳ ﻲﺘﻟﺍ ﺔﻘﻳﺮﻄﻟﺍ 
+.ﺔﻴﻤﺳﺮﻟﺍ ﺕﺎﻤﺴﻟﺍ ﺖﻴﺒﺜﺘﺑ `argvus-themes` ﺔﻴﻗﻮﻔﻟﺍ ﺔﻣﺰﺤﻟﺍ ﺎﻬﺑ ﻡﻮﻘﻳ ﻲﺘﻟﺍ ﺔﻘﻳﺮﻄﻟﺍ
 
                         .ARGVUS ﺔﺒﻌﻟ ﻖﺋﺎﺛﻭ ﻊﻴﻤﺠﻟ ﺪﻴﺣﻮﻟﺍ ﻝﺰﻨﻤﻟﺍ ﻮﻫ ﻉﺩﻮﺘﺴﻤﻟﺍ ﺍﺬﻫ
 
-## Installation
+## التثبيت
 
                                                             :ﺔﻴﻤﺳﺭ ﺔﺒﻌﻟ ﻞﻛ ﺖﺒﺛ
 
@@ -17,7 +17,7 @@ description:                                           .ﺔﻴﻤﺳﺮﻟﺍ AR
 sudo pacman -S argvus-games
 ```
 
-Install a single game:
+تثبيت لعبة واحدة:
 
 ```sh
 sudo pacman -S argvus-game-snake
@@ -28,18 +28,18 @@ sudo pacman -S argvus-game-snake
 
 ## ﺔﺣﺎﺘﻤﻟﺍ ﺏﺎﻌﻟﻷ﻿ﺍ
 
-| Game | Package | Command | Page |
+| لعبة | الحزمة | الأمر | صفحة |
 | --- | --- | --- | --- |
- for the installed and user paths.[Snake](/docs/argvus-games/snake/) |
+للمسارات المثبتة والمستخدم.[Snake](/docs/argvus-games/snake/) |
 
 ## ﻢﻜﺤﺘﻟﺍ ًﻻ﻿ﻭﺃ ﺢﻴﺗﺎﻔﻤﻟﺍ ﺔﺣﻮﻟ
 
-Vi  ﺔﻛﺮﺣ ﻥﺎﺒﻌﺜﻟﺍ ﺔﺒﻌﻟ ﻡﺪﺨﺘﺴﺗ .ًﻻ﻿ﻭﺃ ﺢﻴﺗﺎﻔﻤﻟﺍ ﺔﺣﻮﻟ ﻰﻠﻋ ﺰﻛﺮﻳ ﻱﺬﻟﺍ
-keys 
+Vi  ﺔﻛﺮﺣ ﻥﺎﺒﻌﺜﻟﺍ ﺔﺒﻌﻟ ﻡﺪﺨﺘﺴﺗ . ًﻻ﻿ﻭﺃ ﺢﻴﺗﺎﻔﻤﻟﺍ ﺔﺣﻮﻟ ﻰﻠﻋ ﺰﻛﺮﻳ ﻱﺬﻟﺍ
+keys
 
-, 
+,
 
-,  `argvus-game-snake`  `argvus game-snake` `h` and `j` l  `k` , and every game page lists its controls.
+، `argvus-game-snake` `argvus game-snake` `h` و `j` l `k`، وكل صفحة لعبة تسرد عناصر التحكم الخاصة بها.
 
 ## ﺔﻴﻠﺤﻤﻟﺍ ﺕﺎﻧﺎﻴﺒﻟﺍ
 

@@ -24,7 +24,7 @@ sudo pacman -S argvus-game-snake
 
 | ゲーム | パッケージ | コマンド | ページ |
 | --- | --- | --- | --- |
-| Snake | `argvus-game-snake` | `argvus game-snake` | [Snake](/docs/argvus-games/snake/) |
+|ヘビ | `argvus-game-snake` | `argvus game-snake` | [スネーク](/docs/argvus-games/snake/) |
 
 ## キーボード優先操作
 

@@ -6,7 +6,7 @@ ARGVUS Games est le méta-paquet pour les jeux officiels ARGVUS. Il ne contient 
 
 Ce dépôt est le seul endroit pour toute la documentation des jeux ARGVUS.
 
-## Installation
+## Mise en place
 
 Installez tous les jeux officiels :
 
@@ -24,7 +24,7 @@ L'installation d'un package de jeu ne change pas votre session, votre thème ou 
 
 | Jeu | Package | Commande | Page |
 | --- | --- | --- | --- |
-| Snake | `argvus-game-snake` | `argvus game-snake` | [Snake](/docs/argvus-games/snake/) |
+| Serpent | `argvus-game-snake` | `argvus game-snake` | [Serpent](/docs/argvus-games/snake/) |
 
 ## Contrôles prioritairement au clavier
 

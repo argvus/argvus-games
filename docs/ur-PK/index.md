@@ -1,5 +1,5 @@
 ---
-title: Games
+title: کھیل
 description:                                     ۔ﮟﯿﻠﯿﮭﮐ ﺭﻭﺍ ﮟﯾﺮﮐ ﻝﺎﭩﺴﻧﺍ ﺰﻤﯿﮔ ARGVUS ﯼﺭﺎﮐﺮﺳ
 ---
 
@@ -9,7 +9,7 @@ ARGVUS ﯼﺭﺎﮐﺮﺳ ﺰﻤﯿﮔ ARGVUS ۔ﺎﺗﺮﮐ ﮟﯿﮩﻧ ﻢﮨ
 
              ۔ﮯﮨ ﺮﮭﮔ ﺪﺣﺍﻭ ﮯﯿﻟ ﮯﮐ ﺩﺍﻮﻣ ﯼﺰﯾﻭﺎﺘﺳﺩ ﮯﮐ ﻢﯿﮔ ARGVUS ﻡﺎﻤﺗ ﯼﺮﭩﯾﺯﻮﭙﯾﺭ ﮧﯾ
 
-## Installation
+## تنصیب
 
                                                    :ﮟﯾﺮﮐ ﻝﺎﭩﺴﻧﺍ ﻞﯿﮭﮐ ﯼﺭﺎﮐﺮﺳ ﺮﮨ
 
@@ -17,7 +17,7 @@ ARGVUS ﯼﺭﺎﮐﺮﺳ ﺰﻤﯿﮔ ARGVUS ۔ﺎﺗﺮﮐ ﮟﯿﮩﻧ ﻢﮨ
 sudo pacman -S argvus-games
 ```
 
-Install a single game:
+ایک ہی گیم انسٹال کریں:
 
 ```sh
 sudo pacman -S argvus-game-snake
@@ -28,9 +28,9 @@ sudo pacman -S argvus-game-snake
 
 ##                                                                    ﻞﯿﮭﮐ ﺏﺎﯿﺘﺳﺩ
 
-| Game | Package | Command | Page |
+| کھیل | پیکیج | کمانڈ | صفحہ |
 | --- | --- | --- | --- |
- for the installed and user paths.[Snake](/docs/argvus-games/snake/) |
+ نصب شدہ اور صارف کے راستوں کے لیے[Snake](/docs/argvus-games/snake/) |
 
 ##                                                           ﺰﻟﻭﺮﭩﻨﮐ ﭧﺳﺮﻓ ﮈﺭﻮﺑ ﯽﮐ
 

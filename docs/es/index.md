@@ -24,7 +24,7 @@ Instalar un paquete de juego no cambia tu sesión, tu tema ni tu fondo de pantal
 
 | Juego | Paquete | Comando | Página |
 | --- | --- | --- | --- |
-| Snake | `argvus-game-snake` | `argvus game-snake` | [Snake](/docs/argvus-games/snake/) |
+| Serpiente | `argvus-game-snake` | `argvus game-snake` | [Serpiente](/docs/argvus-games/snake/) |
 
 ## Controles centrados en el teclado
 

@@ -1,12 +1,12 @@
 ---
-title: Snake
+title: সাপ
 description: রেট্রো ARGVUS টার্মিনাল স্নেক গেম খেলুন।
 ---
 
 `argvus-game-snake` হল টার্মিনালের জন্য একটি রেট্রো স্নেক গেম। এটি
 [ARGVUS Games](/docs/argvus-games/) মেটা-প্যাকেজের অংশ।
 
-## Installation
+## ইনস্টলেশন
 
 ```sh
 sudo pacman -S argvus-game-snake
@@ -26,35 +26,35 @@ argvus game-snake
 মানক ARGVUS Kitty প্রোফাইলের মাধ্যমে কেন্দ্রীভূত ফ্লোটিং-এ
 উইন্ডো আকারের `1380x840`, কন্ট্রোল সেন্টারের সাথে মিল রেখে।
 
-## Controls
+## নিয়ন্ত্রণ করে
 
 মোশন ইচ্ছাকৃতভাবে স্ট্যান্ডার্ড Vi কী ব্যবহার করে:
 
-- `h`: left;
-- `j`: down;
-- `k`: up;
-- `l`: right.
+- `h`: বাম;
+- `j`: নিচে;
+- `k`: আপ;
+- `l`: ঠিক।
 
-When the game opens, press 
+গেমটি খুললে, টিপুন
 
- to start moving right, or press 
+ডানদিকে সরানো শুরু করতে বা টিপুন
 
 , `Enter`,
 `h` k  `j`  অথবা  `k` `l` নির্দিষ্ট দিক থেকে অবিলম্বে শুরু করতে।
 
 - `p` অথবা স্পেস: বিরতি এবং পুনরায় শুরু;
 - `r`: গেম ওভার-এর পর পুনরায় শুরু;
-- `q` or Esc: quit.
+- `q` বা Esc: প্রস্থান করুন।
 
-## Rules
+## নিয়ম
 
 সাপ খাবার খেলে বাড়ে। দেয়াল বা সাপের নিজস্ব দেহ স্পর্শ করা
-ends the round.
+রাউন্ড শেষ হয়।
 
-## Ranking
+## র‍্যাঙ্কিং
 
 স্থানীয় শীর্ষ দশ র‌্যাঙ্কিং সংরক্ষণ করা হয়
 `$XDG_CONFIG_HOME/argvus/games/snake/ranking.json`, অথবা
 ডিফল্টভাবে `~/.config/argvus/games/snake/ranking.json`। প্যাকেজ ইনস্টলেশন
 হোম ডিরেক্টরিতে ফাইল তৈরি করে না; ফাইলটি প্রথমবার তৈরি হয়
-a score is saved.
+একটি স্কোর সংরক্ষণ করা হয়।

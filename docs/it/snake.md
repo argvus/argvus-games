@@ -3,7 +3,7 @@ title: Serpente
 description: Gioca al gioco Snake del terminale retro ARGVUS.
 ---
 `argvus-game-snake` è un gioco Snake retrò per il terminale. Fa parte del
-[ARGVUS Games](/docs/argvus-games/) meta-package.
+[Metapacchetto ARGVUS Games](/docs/argvus-games/).
 
 ## Installazione
 
@@ -23,13 +23,13 @@ Il menu dell'applicazione contiene anche un launcher `ARGVUS Snake`. The launche
 apre il gioco attraverso il profilo standard ARGVUS Kitty in un movimento centrato
 finestra di dimensioni `1380x840`, corrispondente al Centro di controllo.
 
-## Controls
+## Controlli
 
 Il movimento utilizza deliberatamente i tasti Vi standard:
 
-- `h`: left;
-- `j`: down;
-- `k`: up;
+- `h`: sinistra;
+- `j`: giù;
+- `k`: su;
 - `l`: giusto.
 
 Quando il gioco si apre, premi `Enter` per iniziare a muoverti verso destra, oppure premi `h`, `j`,
@@ -39,15 +39,15 @@ Quando il gioco si apre, premi `Enter` per iniziare a muoverti verso destra, opp
 - `r`: riavvio dopo Game Over;
 - `q` o Esc: esci.
 
-## Rules
+## Regole
 
 Il serpente cresce quando mangia il cibo. Toccando il muro o il corpo stesso del serpente
-ends the round.
+conclude il giro.
 
-## Ranking
+## Classifica
 
 La classifica dei primi dieci locali è archiviata
-`$XDG_CONFIG_HOME/argvus/games/snake/ranking.json`, or
+`$XDG_CONFIG_HOME/argvus/games/snake/ranking.json`, o
 `~/.config/argvus/games/snake/ranking.json` per impostazione predefinita. Package installation
 non crea file nella directory home; il file viene creato la prima volta
-a score is saved.
+viene salvato un punteggio.

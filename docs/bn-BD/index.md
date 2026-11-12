@@ -1,5 +1,5 @@
 ---
-title: Games
+title: গেমস
 description: অফিসিয়াল ARGVUS গেম ইনস্টল এবং খেলুন।
 ---
 
@@ -9,7 +9,7 @@ ARGVUS গেম হল অফিসিয়াল ARGVUS গেমের জ�
 
 এই রেপোজিটরিটি সমস্ত ARGVUS গেম ডকুমেন্টেশনের একমাত্র কেন্দ্র।
 
-## Installation
+## ইনস্টলেশন
 
 প্রতিটি অফিসিয়াল গেম ইনস্টল করুন:
 
@@ -17,7 +17,7 @@ ARGVUS গেম হল অফিসিয়াল ARGVUS গেমের জ�
 sudo pacman -S argvus-games
 ```
 
-Install a single game:
+একটি একক গেম ইনস্টল করুন:
 
 ```sh
 sudo pacman -S argvus-game-snake
@@ -28,9 +28,9 @@ sudo pacman -S argvus-game-snake
 
 ## উপলব্ধ গেমস
 
-| Game | Package | Command | Page |
+| খেলা | প্যাকেজ | আদেশ | পাতা |
 | --- | --- | --- | --- |
- for the installed and user paths.[Snake](/docs/argvus-games/snake/) |
+ ইনস্টল করা এবং ব্যবহারকারীর পথের জন্য।[Snake](/docs/argvus-games/snake/) |
 
 ## কীবোর্ড-ফার্স্ট নিয়ন্ত্রণ
 

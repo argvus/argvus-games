@@ -18,9 +18,9 @@ sudo pacman -S argvus-game-snake
 ```sh
 argvus game-snake
 ```
-The application menu also contains an `ARGVUS Snake` launcher.发射器
-opens the game through the standard ARGVUS Kitty profile in a centered floating
-window sized `1380x840`, matching the Control Center.
+The application menu also contains an `ARGVUS Snake` launcher. 发射器
+通过中心浮动的标准 ARGVUS Kitty 配置文件打开游戏
+窗口尺寸为 `1380x840`，与控制中心相匹配。
 
 ## 控制
 
@@ -31,8 +31,8 @@ window sized `1380x840`, matching the Control Center.
 - `k`：向上；
 - `l`：对。
 
-When the game opens, press `Enter` to start moving right, or press `h`, `j`,
-`k` or `l` to start immediately in that direction.
+游戏打开后，按`Enter`开始向右移动，或按`h`、`j`，
+`k` 或 `l` 立即朝该方向启动。
 
 - `p` 或空格：暂停和恢复；
 - `r`：游戏结束后重新启动；

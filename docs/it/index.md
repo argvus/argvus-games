@@ -24,7 +24,7 @@ L'installazione di un pacchetto di gioco non modifica la tua sessione, il tuo te
 
 | Gioco | Pacchetto | Comando | Pagina |
 | --- | --- | --- | --- |
-| Snake | `argvus-game-snake` | `argvus game-snake` | [Snake](/docs/argvus-games/snake/) |
+| Serpente | `argvus-game-snake` | `argvus game-snake` | [Serpente](/docs/argvus-games/snake/) |
 
 ## Controlli da tastiera prioritari
 

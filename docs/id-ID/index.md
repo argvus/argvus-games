@@ -1,5 +1,5 @@
 ---
-title: Games
+title: Permainan
 description: Instal dan mainkan game resmi ARGVUS.
 ---
 
@@ -9,7 +9,7 @@ dengan cara yang sama paket meta `argvus-themes` menginstal tema resmi.
 
 Repositori ini adalah satu-satunya tempat untuk semua dokumentasi game ARGVUS.
 
-## Installation
+## Instalasi
 
 Instal setiap game resmi:
 
@@ -17,7 +17,7 @@ Instal setiap game resmi:
 sudo pacman -S argvus-games
 ```
 
-Install a single game:
+Instal satu game:
 
 ```sh
 sudo pacman -S argvus-game-snake
@@ -28,7 +28,7 @@ wallpaper Anda, dan tidak membuat file di direktori home Anda.
 
 ## Permainan yang tersedia
 
-| Game | Package | Command | Page |
+| Permainan | Paket | Perintah | Halaman |
 | --- | --- | --- | --- |
  for the installed and user paths.[Snake](/docs/argvus-games/snake/) |
 

@@ -5,7 +5,7 @@ description: Jouez au jeu de serpent rétro du terminal ARGVUS.
 `argvus-game-snake` est un jeu Snake rétro pour le terminal. Il fait partie du
 [ARGVUS Games](/docs/argvus-games/) méta-package.
 
-## Installation
+## Mise en place
 
 ```sh
 sudo pacman -S argvus-game-snake

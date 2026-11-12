@@ -1,5 +1,5 @@
 ---
-title: Games
+title: Oyunlar
 description: Resmi ARGVUS oyunlarını yükleyin ve oynayın.
 ---
 
@@ -9,7 +9,7 @@ ARGVUS Oyunları, resmi ARGVUS oyunları için meta-pakettir. Kendi oyunu yoktur
 
 Bu depo, tüm ARGVUS oyun dokümantasyonunun tek adresidir.
 
-## Installation
+## Kurulum
 
 Her resmi oyunu yükleyin:
 
@@ -17,7 +17,7 @@ Her resmi oyunu yükleyin:
 sudo pacman -S argvus-games
 ```
 
-Install a single game:
+Tek bir oyun yükleyin:
 
 ```sh
 sudo pacman -S argvus-game-snake
@@ -28,7 +28,7 @@ duvar kağıdınızı değiştirmez ve ev dizininizde dosya oluşturmaz.
 
 ## Mevcut oyunlar
 
-| Game | Package | Command | Page |
+| Oyun | Paket | Komut | Sayfa |
 | --- | --- | --- | --- |
  for the installed and user paths.[Snake](/docs/argvus-games/snake/) |
 

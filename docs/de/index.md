@@ -24,7 +24,7 @@ Die Installation eines Spielpakets ändert Ihre Sitzung, Ihr Thema oder Ihren Hi
 
 | Spiel | Paket | Befehl | Seite |
 | --- | --- | --- | --- |
-| Snake | `argvus-game-snake` | `argvus game-snake` | [Snake](/docs/argvus-games/snake/) |
+| Schlange | `argvus-game-snake` | `argvus game-snake` | [Schlange](/docs/argvus-games/snake/) |
 
 ## Tastaturbasierte Steuerung
 

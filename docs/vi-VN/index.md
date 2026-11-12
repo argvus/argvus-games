@@ -1,5 +1,5 @@
 ---
-title: Games
+title: Trò chơi
 description: Cài đặt và chơi các trò chơi ARGVUS chính thức.
 ---
 
@@ -9,7 +9,7 @@ cùng cách mà gói meta `argvus-themes` cài đặt các chủ đề chính th
 
 Kho lưu trữ này là nơi duy nhất cho tất cả tài liệu trò chơi ARGVUS.
 
-## Installation
+## Cài đặt
 
 Cài đặt mọi trò chơi chính thức:
 
@@ -17,7 +17,7 @@ Cài đặt mọi trò chơi chính thức:
 sudo pacman -S argvus-games
 ```
 
-Install a single game:
+Cài đặt một trò chơi duy nhất:
 
 ```sh
 sudo pacman -S argvus-game-snake
@@ -28,7 +28,7 @@ hình nền của bạn, và không tạo tệp trong thư mục chính của b�
 
 ## Các trò chơi có sẵn
 
-| Game | Package | Command | Page |
+| Trò chơi | Trọn gói | Lệnh | Trang |
 | --- | --- | --- | --- |
  for the installed and user paths.[Snake](/docs/argvus-games/snake/) |
 

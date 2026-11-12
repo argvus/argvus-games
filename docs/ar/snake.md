@@ -1,18 +1,18 @@
 ---
-title: Snake
+title: الثعبان
 description:                                 .ﻢﻳﺪﻘﻟﺍ ARGVUS ﺔﻴﻓﺮﻃ ﺯﺎﻬﺟ ﻲﻓ ﻥﺎﺒﻌﺜﻟﺍ ﺔﺒﻌﻟ ﺐﻌﻟﺍ
 ---
 
 `argvus-game-snake` ﻦﻣ ءﺰﺟ ﺎﻬﻧﺇ .ﺔﻴﻓﺮﻄﻟﺍ ﺔﻄﺤﻤﻠﻟ ﺔﻤﻳﺪﻗ ﻥﺎﺒﻌﺛ ﺔﺒﻌﻟ ﻲﻫ
- for the installed and user paths.(/docs/argvus-games/) for the installed and user paths.
+للمسارات المثبتة ومسارات المستخدم.(/docs/argvus-games/) للمسارات المثبتة والمستخدمين.
 
-## Installation
+## التثبيت
 
 ```sh
 sudo pacman -S argvus-game-snake
 ```
 
-Installing 
+Installing
 
  installs this game as well.
 
@@ -24,20 +24,20 @@ Installing
 argvus game-snake
 ```
 
-The application menu also contains an 
+The application menu also contains an
 
  launcher. The launcher
 ﺰﻛﺮﻤﺘﻤﻟﺍﻭ ﻢﺋﺎﻌﻟﺍ  ﻲﻓ ﻲﺳﺎﻴﻘﻟﺍ ARGVUS Kitty ﻒﻠﻣ ﻝﻼ﻿ﺧ ﻦﻣ ﺔﺒﻌﻠﻟﺍ ﺢﺘ
                             .ﻢﻜﺤﺘﻟﺍ ﺰﻛﺮﻤﻟ ﺔﻘﺑﺎﻄﻣ ، ARGVUS Snake  `argvus-games`  `ARGVUS Snake` `1380x840` ﻢﺠﺤﺑ ﺓﺬﻓﺎﻧ
 
-## Controls
+## الضوابط
 
                                       :ﺔﻴﺳﺎﻴﻘﻟﺍ Vi ﺢﻴﺗﺎﻔﻣ ﺪﺼﻗ ﻦﻋ ﻡﺪﺨﺘﺴﺗ ﺔﻛﺮﺤﻟﺍ
 
-- `h`: left;
-- `j`: down;
-- `k`: up;
-- `l`: right.
+- `h`: اليسار؛
+- `j`: للأسفل؛
+- `k`: أعلى؛
+- `l`: صحيح.
 
                                                        ﻂﻐﺿﺍ ،ﺔﺒﻌﻠﻟﺍ ﺢﺘﻔﺗ ﺎﻣﺪﻨﻋ`Enter`                                                    ﻂﻐﺿﺍ ﻭﺃ ،ﻦﻴﻤﻴﻟﺍ ﻮﺤﻧ ﻙﺮﺤﺘﻠﻟ`h`, `j`,
 `k` ﻭﺃ `l` ﻩﺎﺠﺗﻻ﻿ﺍ ﻚﻟﺫ ﻲﻓ ﺍًﺭﻮﻓ ءﺪﺒﻠﻟ.
@@ -46,12 +46,12 @@ The application menu also contains an
 - `r`: ﺔﺒﻌﻠﻟﺍ ءﺎﻬﺘﻧﺍ ﺪﻌﺑ ﻞﻴﻐﺸﺘﻟﺍ ﺪﻋﺃ;
 - `q` ~/.config/argvus/games/snake/ranking.json  `$XDG_CONFIG_HOME/argvus/games/snake/ranking.json` `~/.config/argvus/games/snake/ranking.json`   or Esc: quit.
 
-## Rules
+## القواعد
 
 ﻪﺴﻔﻧ ﻥﺎﺒﻌﺜﻟﺍ ﻢﺴﺟ ﻭﺃ ﺭﺍﺪﺠﻟﺍ ﺲﻤﻟ .ﻡﺎﻌﻄﻟﺍ ﻞﻛﺄﻳ ﺎﻣﺪﻨﻋ ﻥﺎﺒﻌﺜﻟﺍ ﻝﻮﻃ
-ends the round.
+تنتهي الجولة.
 
-## Ranking
+## الترتيب
 
 ﻲﻓ ﺓﺮﺸﻋ ﻞﻀﻓﻷ﻿ ﻲﻠﺤﻤﻟﺍ ﻒﻴﻨﺼﺘﻟﺍ ﻦﻳﺰﺨﺗ ﻢﺘﻳ
 
@@ -59,6 +59,6 @@ ends the round.
 
  by default. Package installation
 ﻰﻟﻭﻷ﻿ﺍ ﺓﺮﻤﻟﺍ ﻲﻓ ﻒﻠﻤﻟﺍ ءﺎﺸﻧﺇ ﻢﺘﻳ ؛ﻝﺰﻨﻤﻟﺍ ﻞﻴﻟﺩ ﻲﻓ ﺕﺎﻔﻠﻣ ﺊﺸﻨﻳ ﻻ﻿
-a score is saved.
+يتم حفظ النتيجة.
 
 [                                                                 ﺱﺎﻓﻮﺟﺭﺃ ﺏﺎﻌﻟﺃ](/docs/argvus-games/)                                                                   .ﺔﻠﻣﺎﺷ ﺔﻣﺰﺣ

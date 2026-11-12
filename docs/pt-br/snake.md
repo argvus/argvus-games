@@ -1,5 +1,5 @@
 ---
-title: Snake
+title: Cobra
 description: Jogue o Snake retro do ARGVUS no terminal.
 ---
 
@@ -47,7 +47,7 @@ pressione `h`, `j`, `k` ou `l` para começar imediatamente nessa direção.
 A minhoca cresce ao comer a comida. Encostar na parede ou no próprio corpo
 encerra a rodada.
 
-## Ranking
+## Classificação
 
 O ranking local com as dez melhores pontuações fica em
 `$XDG_CONFIG_HOME/argvus/games/snake/ranking.json`, ou em
